@@ -1,8 +1,6 @@
 # nginx-njs-unit-FAQ
 
-Please use this format: [nginx/njs/unit] question.
-
-For example: 
+Please use this format: [nginx/njs/unit] question. For example: 
 
 [njs] How to use njs?
 
